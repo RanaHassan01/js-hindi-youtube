@@ -21,16 +21,16 @@ console.log(Number.MIN_SAFE_INTEGER);
 
 
 //Maths -
-//console.log(Math);
-//console.log(Math.abs(-5));
-//console.log(Math.abs(5));
-//console.log(Math.round(4.5));
-//console.log(Math.round(4.7));
+console.log(Math);
+console.log(Math.abs(-5));
+console.log(Math.abs(5));
+console.log(Math.round(4.5));
+console.log(Math.round(4.7));
 //To specify round off
-//console.log(Math.ceil(4.3)); //Roundoff to top(next number)
-//console.log(Math.floor(4.3)); //Roundoff to lower like here 4
-//console.log(Math.max(18,39,55,33,3388,94946,24005));
-//console.log(Math.min(2343,05,39350,3563,2294,433));
+console.log(Math.ceil(4.3)); //Roundoff to top(next number)
+console.log(Math.floor(4.3)); //Roundoff to lower like here 4
+console.log(Math.max(18,39,55,33,3388,94946,24005));
+console.log(Math.min(2343,05,39350,3563,2294,433));
 
 //Math library is mostly used in random
 console.log(Math.random()); //values is always 0-1 range ;decimal value like o.82727
